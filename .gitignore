@@ -1,10 +1,5 @@
-*.jpg
-*.JPG
-*.jpeg
-*.jpe
-*.jif
-*.jfif
-*.jfi
-*.png
-*.webp
-*.gif
+/Lesson_1/geoguess/*
+/Lesson_2/bears/*
+/Lesson_2/flores/*
+/Lesson_2/flores_pronto/*
+/Lesson_3/img/*
